@@ -1,0 +1,9 @@
+Text Analysis Summary
+===================
+
+Total files: 4450
+Successfully read: 4450
+Failed to read: 0
+Number of categories: 5
+Average text length: 1632.86 characters
+Average word count: 274.60 words
