@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 glove.*
+
+saved_models/bert_model.pt
