@@ -174,4 +174,5 @@ cython_debug/
 
 glove.*
 
+# bert_model.pt file size is too large to be uploaded to GitHub
 saved_models/bert_model.pt
